@@ -1,5 +1,5 @@
 # PWGen
-    Gerador de senhas a partir de opções selecionadas pelo usuário
+Gerador de senhas a partir de opções selecionadas pelo usuário
 
 ### Passos
 
